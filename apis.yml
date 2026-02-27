@@ -1,0 +1,131 @@
+name: Outils De Travail Digitaux
+description: A comprehensive collection of digital workplace tools and APIs for collaboration, productivity, and business operations
+image: https://example.com/otdd-logo.png
+url: https://outilsdetravaildigitaux.com
+created: '2024-01-15'
+modified: '2024-01-15'
+tags:
+- Digital Tools
+- Workplace
+- Productivity
+- Collaboration
+- Business Tools
+apis:
+- name: Project Management API
+  description: API for managing projects, tasks, and team collaboration
+  image: https://example.com/project-api-icon.png
+  humanURL: https://outilsdetravaildigitaux.com/project-management
+  baseURL: https://api.outilsdetravaildigitaux.com/v1/projects
+  tags:
+  - Projects
+  - Tasks
+  - Teams
+  - Collaboration
+  properties:
+  - type: Documentation
+    url: https://docs.outilsdetravaildigitaux.com/project-api
+  - type: OpenAPI
+    url: https://api.outilsdetravaildigitaux.com/specs/project-openapi.json
+  - type: Authentication
+    url: https://docs.outilsdetravaildigitaux.com/auth
+  contact:
+  - FN: API Support
+    email: api-support@outilsdetravaildigitaux.com
+    url: https://outilsdetravaildigitaux.com/support
+- name: Document Management API
+  description: API for storing, organizing, and sharing documents and files
+  image: https://example.com/docs-api-icon.png
+  humanURL: https://outilsdetravaildigitaux.com/document-management
+  baseURL: https://api.outilsdetravaildigitaux.com/v1/documents
+  tags:
+  - Documents
+  - Files
+  - Storage
+  - Sharing
+  properties:
+  - type: Documentation
+    url: https://docs.outilsdetravaildigitaux.com/document-api
+  - type: OpenAPI
+    url: https://api.outilsdetravaildigitaux.com/specs/document-openapi.json
+  - type: Pricing
+    url: https://outilsdetravaildigitaux.com/pricing
+  contact:
+  - FN: API Support
+    email: api-support@outilsdetravaildigitaux.com
+- name: Communication API
+  description: API for team messaging, video calls, and real-time communication
+  image: https://example.com/comm-api-icon.png
+  humanURL: https://outilsdetravaildigitaux.com/communication
+  baseURL: https://api.outilsdetravaildigitaux.com/v1/communications
+  tags:
+  - Messaging
+  - Video
+  - Chat
+  - Real-time
+  properties:
+  - type: Documentation
+    url: https://docs.outilsdetravaildigitaux.com/communication-api
+  - type: WebSocket
+    url: wss://api.outilsdetravaildigitaux.com/v1/ws
+  - type: SDKs
+    url: https://docs.outilsdetravaildigitaux.com/sdks
+  contact:
+  - FN: API Support
+    email: api-support@outilsdetravaildigitaux.com
+- name: Time Tracking API
+  description: API for tracking work hours, attendance, and productivity metrics
+  image: https://example.com/time-api-icon.png
+  humanURL: https://outilsdetravaildigitaux.com/time-tracking
+  baseURL: https://api.outilsdetravaildigitaux.com/v1/timetracking
+  tags:
+  - Time Tracking
+  - Attendance
+  - Productivity
+  - Reports
+  properties:
+  - type: Documentation
+    url: https://docs.outilsdetravaildigitaux.com/timetracking-api
+  - type: OpenAPI
+    url: https://api.outilsdetravaildigitaux.com/specs/timetracking-openapi.json
+  contact:
+  - FN: API Support
+    email: api-support@outilsdetravaildigitaux.com
+- name: Analytics API
+  description: API for accessing workplace analytics, insights, and reporting data
+  image: https://example.com/analytics-api-icon.png
+  humanURL: https://outilsdetravaildigitaux.com/analytics
+  baseURL: https://api.outilsdetravaildigitaux.com/v1/analytics
+  tags:
+  - Analytics
+  - Reporting
+  - Insights
+  - Metrics
+  properties:
+  - type: Documentation
+    url: https://docs.outilsdetravaildigitaux.com/analytics-api
+  - type: OpenAPI
+    url: https://api.outilsdetravaildigitaux.com/specs/analytics-openapi.json
+  - type: Rate Limits
+    url: https://docs.outilsdetravaildigitaux.com/rate-limits
+  contact:
+  - FN: API Support
+    email: api-support@outilsdetravaildigitaux.com
+common:
+- type: Getting Started
+  url: https://docs.outilsdetravaildigitaux.com/getting-started
+- type: Authentication
+  url: https://docs.outilsdetravaildigitaux.com/authentication
+- type: Status
+  url: https://status.outilsdetravaildigitaux.com
+- type: Terms of Service
+  url: https://outilsdetravaildigitaux.com/terms
+- type: Privacy Policy
+  url: https://outilsdetravaildigitaux.com/privacy
+- type: Contact
+  url: https://outilsdetravaildigitaux.com/contact
+- type: Blog
+  url: https://outilsdetravaildigitaux.com/blog
+maintainers:
+- FN: Outils De Travail Digitaux Team
+  email: contact@outilsdetravaildigitaux.com
+  url: https://outilsdetravaildigitaux.com/about
